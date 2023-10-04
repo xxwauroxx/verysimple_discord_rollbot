@@ -1,5 +1,9 @@
 # verysimple_discord_rollbot
 type roll (dice(s)) and then bot will roll
+Ex.
+"roll d20"
+"roll 3d20"
+"roll 2d6+5"
 
 Made to try out how bots work on discord and/or in general idk.
 
